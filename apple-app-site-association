@@ -1,19 +1,21 @@
-
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": ["QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"]
-               }
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": ["QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"]
-   },
-
-
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"
+        ]
+    },
     "appclips": {
-        "apps": ["QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"]
+        "apps": [
+            "QKJ4X4ZF22.Nikos-Galinos.Kids4Kids"
+        ]
     }
 }
